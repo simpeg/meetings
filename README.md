@@ -1,8 +1,8 @@
 ![SimPEG logo](https://raw.github.com/simpeg/simpeg/master/docs/images/simpeg-logo.png)
 
-# Talks
+# Meetings
 
-Presentations and meetings about SimPEG and research conducted using SimPEG. 
+Developer meetings about SimPEG and research conducted using SimPEG. 
 
 ## Purpose
 
